@@ -1,0 +1,1 @@
+./config no-asm -shared --prefix=/home/muxuelong/work/mqtt/openssl --cross-compile-prefix=arm-xilinx-linux-gnueabi-
